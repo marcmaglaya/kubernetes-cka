@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata: 
+  name: my-app
+
+data: 
+  APP_COLOR: blue
+  APP_MODE: prd
